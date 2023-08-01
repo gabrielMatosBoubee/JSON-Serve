@@ -1,14 +1,69 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "products": [{
+  "id": 0,
+  "companyName": "company1",
+  "commission": {
+    "one": 0
+  },
+  "companyId": 0,
+  "expirationDate": "2023-07-31T15:41:14.711Z",
+  "lot": "string",
+  "presentation": 1,
+  "price": 0,
+  "productComposition": [
+    {
+      "composition": 1,
+      "quantity": 0
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "productImage": "string",
+  "productName": "string",
+  "productType": 1,
+  "sale": 1,
+  "weight": 0
+}, {
+  "id": 1,
+  "companyName": "string",
+  "commission": {
+    "one": 0
+  },
+  "companyId": 0,
+  "expirationDate": "2023-07-31T15:41:14.711Z",
+  "lot": "string",
+  "presentation": 1,
+  "price": 0,
+  "productComposition": [
+    {
+      "composition": 1,
+      "quantity": 0
+    }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "productImage": "string",
+  "productName": "string",
+  "productType": 1,
+  "sale": 1,
+  "weight": 0
+}, {
+  "id": 2,
+  "companyName": "string",
+  "commission": {
+    "one": 0
+  },
+  "companyId": 0,
+  "expirationDate": "2023-07-31T15:41:14.711Z",
+  "lot": "string",
+  "presentation": 1,
+  "price": 0,
+  "productComposition": [
+    {
+      "composition": 1,
+      "quantity": 0
+    }
+  ],
+  "productImage": "string",
+  "productName": "string",
+  "productType": 1,
+  "sale": 1,
+  "weight": 0
+}]
 }
