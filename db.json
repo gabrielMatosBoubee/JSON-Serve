@@ -27,7 +27,7 @@
   "commission": {
     "one": 0
   },
-  "companyId": 0,
+  "companyId": 1,
   "expirationDate": "2023-07-31T15:41:14.711Z",
   "lot": "string",
   "presentation": 1,
@@ -49,7 +49,7 @@
   "commission": {
     "one": 0
   },
-  "companyId": 0,
+  "companyId": 2,
   "expirationDate": "2023-07-31T15:41:14.711Z",
   "lot": "string",
   "presentation": 1,
